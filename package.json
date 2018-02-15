@@ -1,0 +1,37 @@
+{
+  "name": "narchaic",
+  "version": "1.0.0",
+  "description": "Generate Angular 2 UI and node.js REST API easily.",
+  "main": "narchaic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapniljangam/narchaic.git"
+  },
+  "keywords": [
+    "Code",
+    "generator",
+    "REST",
+    "API",
+    "generator",
+    "Angular",
+    "UI",
+    "generator",
+    "Node.js",
+    "REST",
+    "API"
+  ],
+  "author": "Swapnil Jangam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swapniljangam/narchaic/issues"
+  },
+  "homepage": "https://github.com/swapniljangam/narchaic#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
